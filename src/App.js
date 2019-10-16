@@ -10,7 +10,7 @@ function App() {
       <h1>Welcome to my CSS Animation dump</h1>
       <p className="landing-sub-heading">Just a place full of animations!</p>
       <div class="flex">
-        <a href="#0" class="bttn-dark">Continue</a>
+        <a href="#1" class="bttn-dark">Continue</a>
       </div>
     </div>
       <OmeletteLoading />

@@ -3,6 +3,10 @@ $primary:#FF0072;
 $second:hsl(255, 89%, 49%);
 $third:#4426a8;
 
+html{
+    scroll-behavior: smooth;
+}
+
 .App{
     background-color: rgb(250, 250, 127);
     width: 100%;
@@ -10,7 +14,7 @@ $third:#4426a8;
     display: flex;
     flex-direction: column;
     align-items: center;
-    line-height: 4;
+    justify-content: center;
 }
 h1{
     color: rgb(34, 33, 33);
